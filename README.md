@@ -116,9 +116,9 @@ Meu objetivo é ganhar experiência profissional, continuar aprendendo e transfo
 
 ## 📫 Contato
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](SEU_LINKEDIN)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/pedro-augusto-floriano)
 
-📧 **E-mail:** SEU_EMAIL
+📧 **E-mail:** florianop2008@gmail.com
 
 ---
 
