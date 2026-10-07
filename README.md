@@ -10,35 +10,6 @@ Gosto de aprender na prática, criar projetos e entender como as coisas funciona
 
 ---
 
-## 🧑‍💻 Sobre mim
-
-```js
-const pedro = {
-    name: "Pedro Augusto Floriano",
-    location: "Sorocaba - SP",
-    education: [
-        "Análise e Desenvolvimento de Sistemas — Fatec",
-        "Técnico em Eletrônica",
-        "Técnico em Segurança Cibernética"
-    ],
-    interests: [
-        "Desenvolvimento de Software",
-        "Cibersegurança",
-        "Inteligência Artificial",
-        "Redes",
-        "Tecnologia"
-    ],
-    currentlyLearning: [
-        "Programação",
-        "Desenvolvimento Web",
-        "Algoritmos",
-        "Sistemas Operacionais"
-    ]
-};
-```
-
----
-
 ## 🛠️ Tecnologias & conhecimentos
 
 ### Desenvolvimento
