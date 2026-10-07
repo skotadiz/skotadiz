@@ -41,11 +41,13 @@ Gosto de aprender na prática, criar projetos e entender como as coisas funciona
 
 ## 📚 Formação
 
-**Fatec Sorocaba**  
+**Fatec Sorocaba José Crespo Gonzales**  
 `Análise e Desenvolvimento de Sistemas`
 
-**ETEC Rubens de Faria e Souza**  
-`Técnico em Eletrônica`  
+**Etec Rubens de Faria e Souza**  
+`Técnico em Eletrônica`
+
+**Senac Sorocaba**  
 `Técnico em Segurança Cibernética`
 
 ---
